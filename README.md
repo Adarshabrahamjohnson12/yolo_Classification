@@ -27,6 +27,11 @@ Possible use cases:
 
 ---
 
+
+## 📽️ Demo Video
+
+[Watch the Demo](webcam_outputTrim.mp4)
+
 ## ⚙️ How to Run
 
 ### 1️⃣ Clone the repo
@@ -36,6 +41,4 @@ git clone https://github.com/yourusername/yolo-classification-project.git
 cd yolo-classification-project
 
 
-## 📽️ Demo Video
 
-[Watch the Demo](demo.mp4)
